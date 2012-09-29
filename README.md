@@ -1,0 +1,1 @@
+https://github.com/res0nat0r/gitosis.git
